@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://DOMINIO-PENDIENTE.invalid/sitemap.xml
